@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "semi": false,
+    "singleQuote": true,
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "trailingComma": "all",
+    "arrowParens": "always",
+
+    "editor.defaultFormatter": "<another formatter>",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
